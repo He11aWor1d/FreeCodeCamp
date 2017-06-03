@@ -1,0 +1,18 @@
+.move {
+    font-size: 20px;
+    display: block;
+    position: absolute;
+}
+
+.wallpaper {
+    height: 400px;
+    border: 1px solid #9A9FB3;
+    margin-top: 20px;
+    margin-bottom: 10px;
+   /* background-color: #FCF7F7;*/
+    overflow: hidden;
+}
+
+.setpad {
+    padding: 0 5px 0 0;
+}
